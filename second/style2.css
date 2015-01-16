@@ -12,35 +12,30 @@ html, body {
 }
 
 .one {
-	width: 33%;
+	width: 33.33%;
 	height: 100%;
 	background-color: #4A90E2;
 	float: left;
 }
 
 .two {
-	width: 33%;
+	width: 33.33%;
 	height: 100%;
 	background-color: #50E3C2;
 	float: left;
 }
 
 .three {
-	width: 33%;
-	height: 100%;
+	width: 33.33%;
+	height: 75%;
 	background-color: #B8E986;
 	float: left;
 }
 
 .img {
-	width: 33%;
-	height: 33%;
-	background-color: #000000;
+	width: 33.33%;
+	height: 25%;
+	background: url("http://img4.wikia.nocookie.net/__cb20090516032037/starcraft/images/1/14/Marine_SC2_DevRend2.jpg");
 	float: right;
-	margin: 0;
-	padding: 0;
-}
-
-.clear {
-	clear: none;
+	background-size: cover;
 }
